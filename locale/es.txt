@@ -4,16 +4,16 @@
 
 ### Título
 panorama_402AA19C_4B94_0306_41B2_1089C359A0E6.label = Bad
-panorama_40265701_4B94_00FE_41C8_A14E96C19C59.label = Kochen
-panorama_402803FE_4B94_0703_41C0_F8C40202AA87.label = Schlafen
-panorama_470A25DA_4B94_0302_41AF_CFD3955377A4.label = Vorplatz
-panorama_4026B070_4B94_011F_41BE_04918EA03BCC.label = Wohnen
-panorama_4026EABF_4B94_0102_41AB_CD3DE7BAE2A3.label = Zimmer 1
-panorama_4026FDDD_4B94_0306_41C7_F888C19CB4FB.label = Zimmer 2
+panorama_5851D736_5458_CBC2_41B7_99B95CEA9B4D.label = Kochen
+panorama_58F24B96_5458_DAC2_41CF_F17F88D5BD70.label = Schlafen
+panorama_583D845D_545B_CE46_41AD_EFA49F7C124E.label = Vorplatz
+panorama_58C31737_5458_CBC2_41D1_28A1AD24D37D.label = Wohnen
+panorama_58AD1C1B_5458_5DC2_419B_10D3E2C2015F.label = Zimmer 1
+panorama_58FA493F_5458_47C2_41B4_2B08F888F8B4.label = Zimmer 2
 
 ## Tour
 
 ### Descripción
 
 ### Título
-tour.name = Lengnau
+tour.name = Lengnau MFH 9
